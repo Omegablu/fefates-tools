@@ -1,4 +1,4 @@
-129
+137
 0x0 None
 0x1 Nohr Noble (M)
 0x2 Nohr Noble (F)
@@ -128,3 +128,10 @@
 0x7E Great Lord
 0x7F Grandmaster
 0x80 Outrealm Class
+0x?? Lord
+0x?? Cleric
+0x90 Myrmidion
+0x91 Mercenary (Inigo)
+0x92 Mercenary (Severa)
+0x93 HoF6 Silent Dragon
+0x94 Thief
